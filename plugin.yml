@@ -1,0 +1,10 @@
+name: ClearChat
+author: pig588
+version: 1.0
+description: Clear Chat Made By Pig588
+main: me.chat.chat.chat
+commands:
+   CC:
+     description: Server Chat Side
+   CSC:
+     description: Player Chat Side
